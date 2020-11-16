@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img123.jpg</filename>
+	<path>G:\shoro\OneDrive - Personal\OneDrive\School\2020-2021\CMPT 898\CMPT898_Repo\Project\project_retinanet\dataset\images\img123.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>580</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bananaHand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>21</ymin>
+			<xmax>277</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "G:\\Users\\shoro\\miniconda3\\envs\\tensorflow\\python.exe",
-    "python.dataScience.jupyterServerURI": "local"
+    "jupyter.jupyterServerType": "local"
 }
