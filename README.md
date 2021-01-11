@@ -15,4 +15,4 @@ As a final note before proceeding to how to run this notebook, this project was 
 * A python virtual environment with a Jupyter server and these packages: tensorflow, pandas, numpy and matplotlib.pyplot (I suggest following [this](https://www.youtube.com/watch?v=PnK1jO2kXOQ&list=PLJxCTxje563P3YRH2hHM1tFv8R7p0_2p6&index=4) video on how to get everything set up)
 * A decent graphics card (I ran the network on a GTX 1080 and could barely run it before encountering a memory overflow).
 
-Running the project is simple. Download the repo and run the notebooks blocks sequentially. Ensure that the *Estu.csv* and the folder *data* are in the same folder as the executing notebook.
+Running the project is simple. Download the repo and run the *main_project.ipynb* notebook sequentially. Ensure that the *Estu.csv* and the folder *data* are in the same folder as the executing notebook.
